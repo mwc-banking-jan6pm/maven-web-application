@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <url>http://15.207.16.65:9980/prashanthnagonde/repository/unionbank-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <url>http://15.207.16.65:9980/prashanthnagonde/repository/unionbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
