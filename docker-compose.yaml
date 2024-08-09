@@ -8,7 +8,7 @@ services:
     - mavenpackbridge
 networks:
   mavenpackbridge:
-  driver: bridge
+    driver: bridge
 volumes:
   mavenpackvol:
     driver: local
