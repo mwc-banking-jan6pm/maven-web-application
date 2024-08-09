@@ -1,6 +1,6 @@
 services:
   mavendata:
-    image: prashanthnagonde/maven-web-app:TAG
+    image: prashanthnagonde/maven-web-app:5
     restart: always
     ports:
     - 8303:8080
